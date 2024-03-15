@@ -7,7 +7,7 @@ Please use the below table of contents to navigate through the cookbook.
 
 ### Latest Notebooks
 
-- Use Claude 3 Haiku with AI Gateway (15th Mar, '24)
+- Use (Claude 3 Haiku)[https://github.com/satvik314/portkey-cookbook/blob/main/Claude3_Haiku_with_Portkey.ipynb] with AI Gateway (15th Mar, '24)
 - Use Groq, the fastest LLM API with AI Gateway! (13th Mar, '24)
 
 
